@@ -53,7 +53,7 @@ The experiments demonstrate that **RBFs achieve low error rates in function appr
 ## References
 - Broomhead, D. S., & Lowe, D. (1988). **Radial Basis Functions, Multi-variable Functional Interpolation and Adaptive Networks**.
 - Park, J., & Sandberg, I. W. (1991). **Universal Approximation Using Radial-Basis-Function Networks**.
-- S. Papadimitriou, L. Vladutu et. al (2002) ** Generalized Radial Basis Function Networks Trained with Instance Based Learning for Data Mining of Symbolic Data**, Applied Intelligence 16, 223–234, Kluwer.
+- S. Papadimitriou, L. Vladutu et. al (2002) **Generalized Radial Basis Function Networks Trained with Instance Based Learning for Data Mining of Symbolic Data**, Applied Intelligence 16, 223–234, Kluwer.
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the repository.
