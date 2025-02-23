@@ -46,7 +46,7 @@ jupyter notebook notebooks/RBF_approximation.ipynb
 The experiments demonstrate that **RBFs achieve low error rates in function approximation**, reinforcing their theoretical **universal approximation property**. A comparison with Gaussian Process Regression (GPR) reveals that RBFs provide competitive performance while being more scalable in certain cases.
 
 ## Future Work
-- **GPU-accelerated RBF implementation** for faster training using PyTorch.
+
 - **Hybrid approaches** combining RBFs with deep learning for enhanced performance.
 - **Real-world applications** on symbolic and structured data.
 
