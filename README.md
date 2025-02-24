@@ -1,7 +1,7 @@
 # Generalized RBF for Mining Symbolic Data
 
 ## Overview
-This repository explores the power of **Radial Basis Functions (RBFs) as universal approximators**, demonstrating their effectiveness in mining symbolic data. The code provides implementations of generalized RBF networks for function approximation, regression, and pattern recognition tasks.
+This repository explores the power of **Radial Basis Functions (RBFs) as universal approximators**, demonstrating their effectiveness in mining symbolic data. The code provides implementations of generalized RBF networks for function approximation, regression, mining probabilistic data and pattern recognition tasks.
 
 RBFs have been widely recognized for their ability to approximate complex functions with a simple architecture, making them useful in various applications, including **symbolic data mining, time-series forecasting, and classification**.
 
